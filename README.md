@@ -9,8 +9,8 @@ This app replaces an infinite number of plug cutters, which can cost $40 for a s
 Example
 =======
 
-![](examples/hole-plugs-4x4-preview.jpg)
+![](examples/hole-plugs-4x4-preview.png)
 
-![](examples/hole-plugs-4x4-workspace.jpg)
+![](examples/hole-plugs-4x4-workspace.png)
 
 ![](examples/hole-plugs-4x4.jpg)
